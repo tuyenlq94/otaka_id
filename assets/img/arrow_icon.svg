@@ -1,0 +1,23 @@
+<svg id="arrow" xmlns="http://www.w3.org/2000/svg" width="57" height="58" viewBox="0 0 57 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #42a628;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="楕円形_1646" data-name="楕円形 1646" class="cls-1" d="M28.48,0.91A28.436,28.436,0,1,1,.044,29.347,28.435,28.435,0,0,1,28.48.91Z"/>
+  <path id="線_1647_のコピー" data-name="線 1647 のコピー" class="cls-2" d="M23.129,21.281l0.289-.5,12.528,7.233-0.289.5Zm12.541,6.87,0.289,0.5L23.431,35.885l-0.289-.5Z"/>
+</svg>
