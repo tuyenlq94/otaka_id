@@ -65,8 +65,8 @@
     </div>
     <!-- フッター固定ボタン -->
     <div class="renew_2024_fv_lead is-sp">
-        Kunjungi toko spesialisasi pembelian Otakaraya untuk menjual dan menilai emas Anda<br>
-        Otakaraya memiliki lebih dari 1.300 toko di seluruh Jepang, dan di toko-toko ini, staf penilai profesional dan berpengalaman akan memberi Anda harga pembelian yang memuaskan Anda
+        Kunjungi Otarakaya untuk penilaian dan penjualan emas Anda<br>
+        Otakaraya memiliki lebih dari 1.200 toko di seluruh Jepang, dan di toko-toko ini, staf penilai profesional dan berpengalaman akan memberi Anda harga pembelian yang memuaskan Anda
     </div>
     <main class="contents">
         <article class="contents__left">
@@ -83,7 +83,7 @@
                 <div class="titleMain--lead is-pc">
                     <p style="text-align: center; margin: 1rem;">
                     Kunjungi toko spesialisasi pembelian Otakaraya untuk menjual dan menilai emas Anda<br>
-                    Otakaraya memiliki lebih dari 1.300 toko di seluruh Jepang, dan di toko-toko ini, staf penilai profesional dan berpengalaman akan memberi Anda harga pembelian yang memuaskan Anda
+                    Otakaraya memiliki lebih dari 1.200 toko di seluruh Jepang, dan di toko-toko ini, staf penilai profesional dan berpengalaman akan memberi Anda harga pembelian yang memuaskan Anda
                     </p>
                 </div>
             </section>
@@ -1378,7 +1378,7 @@
                                     <div class="horizonlist--text">
                                         <h4 class="titleH4 title--left">berat emas</h4>
                                         <p>
-                                            Referensi Harga Pembelian ditetapkan untuk setiap gram emas, sehingga nilai yang dinilai meningkat sebanding dengan beratnya. Dalam penilaian Otakaraya, kami mengukur beratnya hingga 0,1 gram terdekat dan menghitung nilai emas secara akurat.
+                                        Emas mempunyai acuan harga beli yang ditetapkan per gramnya, sehingga nilai penilaiannya meningkat sebanding dengan beratnya. Pada penilaian di Otakaraya, kami mengukur berat dalam satuan 0,1 gram dan menghitung nilai emas secara akurat.
                                         </p>
                                     </div>
                                 </div>
@@ -1704,7 +1704,7 @@
             <section class="is-pc">
                 <div class="titleMain titleMain--wrapper">
                     <h2 class="titleMain--main">
-                        <span>Info Penilai</span>
+                        <span>Pengenalan penilai</span>
                     </h2>
                 </div>
                 <div class="content-inner">
@@ -1740,19 +1740,19 @@
                                                         <th class="sitetextcolor">
                                                             <span class="noto">Hobi:</span>
                                                         </th>
-                                                        <td><span class="noto">belanja</span></td>
+                                                        <td><span class="noto">Menyemir sepatu</span></td>
                                                     </tr>
                                                     <tr>
                                                         <th class="sitetextcolor">
                                                             <span class="noto">Kalimat favorit:</span>
                                                         </th>
-                                                        <td><span class="noto">Jalani apa yang kau katakan dan bicaralah.</span></td>
+                                                        <td><span class="noto">Berani dan tak kenal takut</span></td>
                                                     </tr>
                                                     <tr>
                                                         <th class="sitetextcolor">
                                                             <span class="noto">Merk favorit</span>
                                                         </th>
-                                                        <td><span class="noto">Harry Winston</span></td>
+                                                        <td><span class="noto">Berluti</span></td>
                                                     </tr>
                                                     <tr>
                                                         <th class="sitetextcolor">

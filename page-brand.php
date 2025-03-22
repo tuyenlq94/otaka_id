@@ -555,8 +555,8 @@
                                 </li>
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  flex_content_wrap">
@@ -739,8 +739,8 @@
                                 </li>
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  flex_content_wrap">
@@ -923,8 +923,8 @@
                                 </li>
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  flex_content_wrap">
@@ -1041,8 +1041,8 @@
                                 </li>
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                     </div>
@@ -1650,15 +1650,15 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/daiya/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/3_daiya.webp" alt="Pembelian berlian & perhiasan"></p>
+                                <p><img src="../images/brand/3_daiya.webp" alt="Pembelian Berlian / Perhiasan"></p>
                             </div>
-                            <p class="text text--center">Pembelian berlian & perhiasan</p>
+                            <p class="text text--center">Pembelian Berlian / Perhiasan</p>
                         </a> </div>
                     <div class="col"> <a href="../brand-tokei/index.html" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/4_tokei.webp" alt="Pembelian jam tangan merek"></p>
+                                <p><img src="../images/brand/4_tokei.webp" alt="Pembelian Jam Tangan Bermerek"></p>
                             </div>
-                            <p class="text text--center">Pembelian jam tangan merek</p>
+                            <p class="text text--center">Pembelian Jam Tangan Bermerek</p>
                         </a> </div>
                     <div class="col"> <a href="/brand-tokei/rolex/" class="img__link">
                             <div class="img">
@@ -1698,15 +1698,15 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/gakki/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/21_gakki.webp" alt="Pembelian instrumen"></p>
+                                <p><img src="../images/brand/21_gakki.webp" alt="Pembelian Alat Musik"></p>
                             </div>
-                            <p class="text text--center">Pembelian instrumen</p>
+                            <p class="text text--center">Pembelian Alat Musik</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/gold/oban-koban/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/22_koban.webp" alt="Pembelian koin besar dan kecil"></p>
+                                <p><img src="../images/brand/22_koban.webp" alt="Pembelian Koin Langka Besar dan Kecil"></p>
                             </div>
-                            <p class="text text--center">Pembelian koin besar dan kecil</p>
+                            <p class="text text--center">Pembelian Koin Langka Besar dan Kecil</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/gold/kinka-ginka/" class="img__link">
                             <div class="img">
@@ -1722,15 +1722,15 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/item/order_medal/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/9_kunsyo_medaru.webp" alt="Pembelian medali dan dekorasi"></p>
+                                <p><img src="../images/brand/9_kunsyo_medaru.webp" alt="Pembelian Medali & Dekorasi"></p>
                             </div>
-                            <p class="text text--center">Pembelian medali dan dekorasi</p>
+                            <p class="text text--center">Pembelian Medali & Dekorasi</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/item/kosen-sihei/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/8_kosen.webp" alt="Membeli koin dan uang kertas lama"></p>
+                                <p><img src="../images/brand/8_kosen.webp" alt="Pembelian Koin & Uang Kertas Lama"></p>
                             </div>
-                            <p class="text text--center">Membeli koin dan uang kertas lama</p>
+                            <p class="text text--center">Pembelian Koin & Uang Kertas Lama</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/item/antique/" class="img__link">
                             <div class="img">
@@ -1740,15 +1740,15 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/kimono2/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/14_kimono.webp" alt="Pembelian kimono"></p>
+                                <p><img src="../images/brand/14_kimono.webp" alt="Pembelian Kimono"></p>
                             </div>
-                            <p class="text text--center">Pembelian kimono</p>
+                            <p class="text text--center">Pembelian Kimono</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/item/picture02/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/15_kaiga.webp" alt="Pembelian lukisan, gulungan gantung, dan karya seni"></p>
+                                <p><img src="../images/brand/15_kaiga.webp" alt="Pembelian Lukisan, Kaligrafi Gulungan Gantung Jepang, dan Karya Seni"></p>
                             </div>
-                            <p class="text text--center">Pembelian lukisan, gulungan gantung, dan karya seni</p>
+                            <p class="text text--center">Pembelian Lukisan, Kaligrafi Gulungan Gantung Jepang, dan Karya Seni</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/camera02/" class="img__link">
                             <div class="img">
@@ -1758,9 +1758,9 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/g-ticket/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/24_kinken.webp" alt="Pembelian sertifikat hadiah dan kartu telepon"></p>
+                                <p><img src="../images/brand/24_kinken.webp" alt="Pembelian voucher uang tunai & Kartu Telepon"></p>
                             </div>
-                            <p class="text text--center">Pembelian sertifikat hadiah dan kartu telepon</p>
+                            <p class="text text--center">Pembelian voucher uang tunai & Kartu Telepon</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/gunsouhin/" class="img__link">
                             <div class="img">
@@ -1949,7 +1949,7 @@
                 <div class="btn__wrap btn__more js__more--btn3 gtm-more-qa"> <span>Lihat selengkapnya</span> </div>
             </section>
             <div class="titleMain titleMain--wrapper">
-                <h2 class="titleMain--main"> <span>Info Penilai</span> </h2>
+                <h2 class="titleMain--main"> <span>Pengenalan penilai</span> </h2>
             </div>
             <div class="content-inner">
                 <section id="shop-leader02">
@@ -1957,8 +1957,8 @@
                         <div class="shop-leader_inner bordersitecolor">
                             <div class="shop-leader_profile relative">
                                 <div class="shop-leader_head absolute">
-                                    <h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin" style="font-size: 26px; font-family: serif;">Appraiser</span></h2>
-                                    <h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin" style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Appraiser</span></h2>
+                                    <h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin" style="font-size: 26px; font-family: serif;">Juru taksir</span></h2>
+                                    <h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin" style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Juru taksir</span></h2>
                                 </div>
                                 <div class="shop-leader_head_shadow absolute">
                                     <div class="relative"></div>

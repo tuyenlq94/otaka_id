@@ -4,7 +4,7 @@
             <h2 class="titleMain--main"> Referensi Harga Pembelian emas </h2>
             <div class="titleMain--lead">
                 <p>
-                Harap dicatat bahwa referensi harga pembelian dapat mengalami fluktuasi tergantung pada waktu dan kondisi pasar. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut.
+                Harap dicatat bahwa harga pembelian dapat berfluktuasi tergantung pada waktu dan kondisi pasar. Untuk evaluasi yang akurat, jangan ragu untuk menghubungi kami.
                 </p>
             </div>
         </div>
@@ -230,8 +230,8 @@
                         </li>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-*Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+*Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                 </div>
                 <div class="flex__content ">
@@ -316,8 +316,8 @@
                         </li>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-*Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+*Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                 </div>
                 <div class="flex__content ">
@@ -532,8 +532,8 @@
                         </li>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-*Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+*Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                 </div>
                 <div class="flex__content ">
@@ -605,8 +605,8 @@
                         </li>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-*Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+*Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                 </div>
                 <div class="flex__content ">
@@ -691,8 +691,8 @@
                         </li>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-*Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+*Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                 </div>
             </div>
@@ -703,7 +703,7 @@
     <div class="renew_202404_result_titlebox">
         <h2 class="renew_202404_result_title">Gold Referensi Harga Pembelian<img class="renew_202404_result_title_l" src="../images/gold/goldleaf_l_202404.png"> <img class="renew_202404_result_title_r" src="../images/gold/goldleaf_r_202404.png"> <img class="renew_202404_result_title_c" src="../images/gold/icon_title_crown.png"> </h2>
         <div class="renew_202404_result_title_lead">
-        Harap dicatat bahwa referensi harga pembelian dapat mengalami fluktuasi tergantung pada waktu dan kondisi pasar. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut.
+        Harap dicatat bahwa harga pembelian dapat berfluktuasi tergantung pada waktu dan kondisi pasar. Untuk evaluasi yang akurat, jangan ragu untuk menghubungi kami.
         </div>
     </div>
     <div class="renew_2024_top_result_superbox is-sp">

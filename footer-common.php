@@ -64,8 +64,8 @@
         </div>
         <div class="footer__foot2024">
             <div class="footer__foot2024--inner_under">
-                <p class="fo oter__foot--permit">Izin Komisi Keamanan Publik Prefektur Kanagawa No. 451380001308</p>
-                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　Otakaraya, toko spesialisasi pembelian item　All Rights Reserved.</p>
+                <p class="fo oter__foot--permit">Lisensi Komisi Keamanan Publik Prefektur Kanagawa No.451380001308</p>
+                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　Toko Spesialis Pembelian Otakaraya　All Rights Reserved.</p>
             </div>
         </div>
     </footer>

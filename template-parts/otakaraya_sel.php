@@ -4,7 +4,7 @@
     </h2>
     <div class="titleMain--lead">
         <p>
-        Otakaraya adalah toko khusus yang menangani pembelian dengan lebih dari 1.400 toko di seluruh Jepang.<br />
+        Otakaraya adalah toko khusus yang menangani pembelian dengan lebih dari 1.200 toko di seluruh Jepang.<br />
         Didirikan sejak 24 tahun lalu, Otakaraya, perusahaan industri terbesar dengan bangga memperkenalkan 9 alasan mengapa kami memliki penawaran harga pembelian yang tinggi.
         </p>
     </div>
@@ -48,7 +48,7 @@
                 <img src="../images/common/Over_1,300stores_nationwide_PC_EN.jpg">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Lebih dari 1.300 toko di seluruh Jepang!
+                    Lebih dari 1.200 toko di seluruh Jepang!
                     </p>
                     <p class="reason_section_text">
                     Pengetahuan tentang pembelian item thrift di seluruh negara terpusat di setiap toko kami!

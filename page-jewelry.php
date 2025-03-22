@@ -50,7 +50,7 @@
                 <meta itemprop="position" content="1">
             </li>
             <li class="topic__path--item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
-                <span itemprop="name">Pembelian Berlian / Perhiasan</span>
+                <span itemprop="name">Pembelian Batu Permata / Perhiasan</span>
                 <meta itemprop="position" content="2">
             </li>
         </ol>
@@ -70,10 +70,10 @@
             <section>
                 <!--     ▼▼▼ top_h2_text▼▼▼     -->
                 <h2 class="titleHeading top_h2_text">
-                Kunjungi Otakaraya untuk Menilai dan Menjual Berlian Anda dengan Harga Tinggi
+                Kunjungi Spesialis Toko Pembelian Otakaraya untuk Menilai dan Menjual Batu Permata / Perhiasan Anda
                 </h2> <!--     ▲▲▲ top_h2_text▲▲▲     -->
                 <div class="head_text">
-                Berlian merupakan zat alami terkeras yang terbentuk jauh di dalam bumi dengan suhu dan tekanan tinggi. Berlian dinilai berdasarkan 4C (karat, warna, kejernihan, dan potongan). Semakin berlian tersebut mendekati tidak berwarna, semakin bernilai batu tersebut, dan kilaunya ditentukan oleh kualitas potongannya. Di Otakaraya, kami saat ini membeli berbagai perhiasan berlian, termasuk cincin dan kalung berlian, dengan harga tinggi. Penilai ahli kami akan mengevaluasi kualitas secara akurat dan menawarkan harga yang memuaskan kepada Anda.
+                Di Otakaraya, kami membeli berbagai macam barang, mulai dari batu mulia seperti Berlian, Rubi, Safir, dan Zamrud hingga perhiasan mewah yang dibuat dari Emas dan Platinum. Berlian dievaluasi berdasarkan 4C (karat, warna, kejernihan, dan potongan), sedangkan batu permata lainnya dinilai secara akurat oleh penilai ahli kami berdasarkan karakteristik dan kelangkaannya. Kami juga mempertimbangkan desain dan kondisi perhiasan, memastikan kami menawarkan harga yang memuaskan. Silakan berkonsultasi dengan kami jika Anda mempertimbangkan untuk menjual item Anda.
                 </div>
             </section>
             <section class="simple_cta_top">
@@ -1316,12 +1316,12 @@
                     <img class="renew_2024_dia_title_r_leaf"
                         src="../images/daiya/dialeaf_r_202404.png">
                     <p>
-                    Referensi Harga Pembelian berlian
+                    Pencapaian Pembelian Batu Permata dan Perhiasan dengan Harga Tinggi
                     </p>
                 </h2>
                 <div class="renew_2024_dia_title_lead">
                     <p>
-                    Harap dicatat bahwa referensi harga pembelian dapat mengalami fluktuasi tergantung pada waktu dan kondisi pasar. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut.
+                    Harap dicatat bahwa harga pembelian dapat berfluktuasi tergantung pada waktu dan kondisi pasar. Untuk evaluasi yang akurat, jangan ragu untuk menghubungi kami.
                     </p>
                 </div>
             </div>
@@ -1519,8 +1519,8 @@
                                 </a></div>
                         </div>
                         <div class="flex_annitation">
-                            *Gambar hanya untuk tujuan ilustrasi.<br>
-                            *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                            *Gambar hanya untuk ilustrasi.<br>
+                            *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                         </div>
 
                         <!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a> -->
@@ -1754,8 +1754,8 @@
                             </a></div>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-                        *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+                        *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
 
                     <!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -1933,8 +1933,8 @@
                             </a></div>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-                        *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+                        *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
 
                     <!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a>
@@ -2113,8 +2113,8 @@
                         </div>
                     </div>
                     <div class="flex_annitation">
-                        *Gambar hanya untuk tujuan ilustrasi.<br>
-                        *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                        *Gambar hanya untuk ilustrasi.<br>
+                        *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                     </div>
                     <!-- <div class="btn__wrap btn__red"><a href="../daiya/result.html" class="gtm-list-result">查看鑽石參考收購價格表請點此</a></div> -->
                 </div>
@@ -2125,11 +2125,11 @@
             <section>
                 <div class="titleMain titleMain--wrapper is-pc">
                     <h2 class="titleMain--main">
-                    Referensi Harga Pembelian berlian
+                    Pencapaian Pembelian Batu Permata dan Perhiasan dengan Harga Tinggi
                     </h2>
                     <div class="titleMain--lead">
                         <p>
-                        Harap dicatat bahwa referensi harga pembelian dapat mengalami fluktuasi tergantung pada waktu dan kondisi pasar. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut.
+                        Harap dicatat bahwa harga pembelian dapat berfluktuasi tergantung pada waktu dan kondisi pasar. Untuk evaluasi yang akurat, jangan ragu untuk menghubungi kami.
                         </p>
                     </div>
                 </div>
@@ -2388,8 +2388,8 @@
 
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  " style="align-items: stretch">
@@ -2715,8 +2715,8 @@
 
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  " style="align-items: stretch">
@@ -2961,8 +2961,8 @@
 
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                         <div class="flex__content  " style="align-items: stretch">
@@ -3207,8 +3207,8 @@
                                 </li>
                             </div>
                             <div class="flex_annitation">
-                                *Gambar hanya untuk tujuan ilustrasi.<br>
-                                *Harga referensi pembelian  adalah untuk barang yang dilengkapi dengan jaminan (garansi) dan aksesoriss.
+                                *Gambar hanya untuk ilustrasi.<br>
+                                *Referensi harga pembelian adalah untuk barang yang memiliki sertifikat penilaian atau keaslian.
                             </div>
                         </div>
                     </div>
@@ -3952,9 +3952,9 @@
                     </p>
                 </section>
                 <section>
-                    <h3 class="titleSub">Jaringan nasional di Jepang lebih dari 1.300 toko</h3>
+                    <h3 class="titleSub">Jaringan nasional di Jepang lebih dari 1.200 toko</h3>
                     <p style="text-align: center;">
-                    Otakaraya memiliki lebih dari 1.300 toko di seluruh Jepang, jumlah terbanyak di antara semua toko yang melakukan pembelian kembali. Jika Anda membawanya ke toko Otakaraya terdekat, kami dapat memberi Anda uang tunai di hari yang sama.<br><br>
+                    Otakaraya memiliki lebih dari 1.200 toko di seluruh Jepang, jumlah terbanyak di antara semua toko yang melakukan pembelian kembali. Jika Anda membawanya ke toko Otakaraya terdekat, kami dapat memberi Anda uang tunai di hari yang sama.<br><br>
                        Kami juga memiliki rekam jejak perdagangan dengan 44 negara di seluruh dunia, dan melakukan banyak bisnis dengan individu maupun perusahaan dan bisnis. Selain berlian, kami juga membeli semua jenis batu permata, termasuk rubi dan safir.
                     </p>
                 </section>
@@ -4350,7 +4350,7 @@
             <!--     ▲▲▲carat別買取▲▲▲     --><!-- MOD_20240417 -->
             <div class="titleMain titleMain--wrapper">
                 <h2 class="titleMain--main">
-                    <span>Info Penilai</span>
+                    <span>Pengenalan penilai</span>
                 </h2>
             </div>
             <div class="content-inner">

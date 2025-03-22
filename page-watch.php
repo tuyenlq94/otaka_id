@@ -100,7 +100,7 @@
         <article class="contents__left">
             <section class="sec brand_tokei_sec01" id="brand_tokei_sec01">
                 <div class="titleMain titleMain--wrapper">
-                    <h2 class="titleHeading top_h2_text">Kunjungi Otakaraya untuk Menilai dan Menjual Jam Tangan Anda dengan Harga Tinggi</h2>
+                    <h2 class="titleHeading top_h2_text">Kunjungi Toko Spesialis Pembelian Otakaraya untuk Menilai dan Menjual Jam Tangan Anda</h2>
                     <div class="titleMain--lead">
                         <p>Jam tangan mewah adalah barang istimewa yang memadukan kepraktisan dan status, berkat pengerjaan presisi dan desain memukau. Dengan nilai aset yang tinggi, merek-merek populer seperti Rolex, Audemars Piguet, dan Patek Philippe diperdagangkan dengan harga premium. Bahkan di pasar bekas, nilainya terus melonjak.</p>
                         <p>Di Otakaraya, penilai kami yang berpengalaman memberikan evaluasi yang akurat di lebih dari 1.200 lokasi di seluruh Jepang, memastikan kepuasan pelanggan. Untuk penilaian dan penjualan jam tangan mewah, percayakan Otakaraya untuk membantu Anda!</p>
@@ -6350,11 +6350,11 @@
                             <!--アコーディオン：2025年最新！高く売れるブランド腕時計-->
                             <div class="brandinfo__main fshoplist-target__list">
                                 <div class="brandinfo__header fshoplist-target--ttl">
-                                    <h3 class="brandinfo__header__title">Update 2025! <br />
+                                    <h3 class="brandinfo__header__title">Update 2024! <br />
                                         Jam tangan bermerek yang dapat dijual dengan harga premium</h3>
                                 </div>
                                 <div class="fshoplist-target--item brandinfo__body no--image">
-                                    <div class="brandinfo__body__text brandinfo__body__text--top"> Merek jam tangan berikut diperkirakan akan mendapatkan harga tinggi pada tahun 2025.<br>
+                                    <div class="brandinfo__body__text brandinfo__body__text--top"> Merek jam tangan berikut diperkirakan akan mendapatkan harga tinggi pada tahun 2024.<br>
                                         <br>
                                         <div class="text_wrap">
                                             <div class="text_"> ・Pembelian Patek Philippe<br>
@@ -6554,9 +6554,9 @@
 
 
 
-            <!-- Info Penilai　（鑑定士紹介）-->
+            <!-- Pengenalan penilai　（鑑定士紹介）-->
             <div class="titleMain titleMain--wrapper">
-                <h2 class="titleMain--main"> <span>Info Penilai</span> </h2>
+                <h2 class="titleMain--main"> <span>Info Penilai Kami</span> </h2>
             </div>
             <div class="content-inner">
                 <section id="shop-leader02">
@@ -6564,8 +6564,8 @@
                         <div class="shop-leader_inner bordersitecolor">
                             <div class="shop-leader_profile relative">
                                 <div class="shop-leader_head absolute">
-                                    <h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin" style="font-size: 26px; font-family: serif;">Appraiser</span></h2>
-                                    <h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin" style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Appraiser</span></h2>
+                                    <h2 class="is-pc bgsitecolor bordersitecolor relative"><span class="noto thin" style="font-size: 26px; font-family: serif;">Juru taksir</span></h2>
+                                    <h2 class="is-sp bgsitecolor bordersitecolor relative"><span class="noto thin" style="margin:-1rem 0 0 0; font-size: 26px; font-family: serif;">Juru taksir</span></h2>
                                 </div>
                                 <div class="shop-leader_head_shadow absolute">
                                     <div class="relative"></div>
@@ -6608,7 +6608,7 @@
                     </div>
                 </section>
             </div>
-            <!-- //Info Penilai　（鑑定士紹介）-->
+            <!-- //Pengenalan penilai　（鑑定士紹介）-->
 
 
             <!-- FAQ（よくある質問）-->

@@ -197,7 +197,7 @@ $k18_pt850_half = round($k18_half + $pt850_half);
         <p class="is-pc"></p>
         <ul class="rateSimulation__wrap form__wrap">
             <li>
-                <label for="type">harga diri</label>
+                <label for="type">Kemurnian</label>
                 <div class="form__liner">
                     <select id="rateSimulation--select">
                         <option value="" selected="selected">select type</option>
