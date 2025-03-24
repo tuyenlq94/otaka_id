@@ -214,7 +214,7 @@
                         </div>
                         <div class="market_fluctuations_content_area_row content_area_row3">
                             <div class="repeater-field-wrapper">2024年12月<br>
-                                Reference Price</div>
+                            Referensi Harga</div>
                             <div class="repeater-field-wrapper">
                                 <div class="repeater-item">
                                     <div class="brand_text">
@@ -6308,8 +6308,8 @@
             <section class="purchase_reinforcement_section brand_tokei_sec03" id="brand_tokei_sec03">
                 <div class="titleMain titleMain--wrapper">
                     <h2 class="titleMain--main">
-                        <p class="is-pc">Sekarang adalah waktu yang tepat untuk menjual jam tangan Anda, dengan harga pasar yang tinggi!</p>
-                        <p class="is-sp">Sekarang adalah waktu yang tepat untuk menjual jam tangan Anda, dengan harga pasar yang tinggi!</p>
+                        <p class="is-pc">Sekarang adalah waktu yang tepat untuk menjual jam tangan Anda, Harga pasar berfluktuasi.</p>
+                        <p class="is-sp">Sekarang adalah waktu yang tepat untuk menjual jam tangan Anda, Harga pasar berfluktuasi.</p>
                     </h2>
                     <img src="../images/brand_tokei/secHeadBg03_sp.png" width="390" height="263" loading="lazy" decoding="async"
                         class="secHeadBg03 is-sp">

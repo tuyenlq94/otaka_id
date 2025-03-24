@@ -4,8 +4,8 @@
     </h2>
     <div class="titleMain--lead">
         <p>
-        Otakaraya adalah toko khusus yang menangani pembelian dengan lebih dari 1.200 toko di seluruh Jepang.<br />
-        Didirikan sejak 24 tahun lalu, Otakaraya, perusahaan industri terbesar dengan bangga memperkenalkan 9 alasan mengapa kami memliki penawaran harga pembelian yang tinggi.
+        Toko Pembelian Khusus Otakaraya dengan Lebih dari 1.200 Toko di seluruh Jepang<br />
+        Selama 24 tahun sejak berdirii, kami, "Otakaraya", pemimpin industri terbesar, dengan bangga menyampaikan 9 alasan mengapa kami menawarkan pembelian bernilai tinggi.
         </p>
     </div>
 </div>
@@ -20,10 +20,10 @@
                 <img src="../images/daiya/reason_img_1.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Penilaian dengan staf profesional
+                    Penilaian Profesional dengan Keahlian
                     </p>
                     <p class="reason_section_text">
-                    Kami memiliki pengetahuan dalam industri ini selama 24 tahun sejarah kami!
+                    Sejarah kami selama 24 tahun telah memungkinkan kami mengumpulkan pengetahuan yang tak tertandingi!
                     </p>
                 </div>
             </div>
@@ -34,10 +34,10 @@
                 <img src="../images/daiya/reason_img_2.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Toko spesialisasi pembelian barang thrift
+                    Toko Pembelian Khusus
                     </p>
                     <p class="reason_section_text">
-                    Kami bisa menawarkan harga pembelian yang lebih tinggi karena terhubung dengan komunitas!
+                    Dengan mengakar pada komunitas lokal, kami mencapai pembelian dengan harga tinggi!
                     </p>
                 </div>
             </div>
@@ -51,7 +51,7 @@
                     Lebih dari 1.200 toko di seluruh Jepang!
                     </p>
                     <p class="reason_section_text">
-                    Pengetahuan tentang pembelian item thrift di seluruh negara terpusat di setiap toko kami!
+                    Keahlian Pembelian Nasional Terpusat di Setiap Toko!
                     </p>
                 </div>
             </div>
@@ -62,10 +62,10 @@
                 <img src="../images/daiya/reason_img_4.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Rekor transaksi kami mecapai 44 negara di seluruh dunia.
+                    Pengalaman Perdagangan dengan 44 Negara di Seluruh Dunia
                     </p>
                     <p class="reason_section_text">
-                    Dengan partnership global yang dimiliki Otakaraya, kami menawarkan harga pembelian kelas dunia!
+                    Dengan partnership global Otakaraya, kami Menawarkan Harga Pembelian Kelas Dunia!
                     </p>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                 <img src="../images/daiya/reason_img_5.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Berbagai macam barang yang kami beli
+                    Menerima berbagai macam item
                     </p>
                     <p class="reason_section_text">
                     Apakah akan laku terjual? Kami dapat menawarkan harga tinggi untuk membeli bahkan barang yang menurut Anda tidak berharga tanpa kehilangan nilai barang tersebut!
@@ -104,10 +104,10 @@
                 <img src="../images/daiya/Same-Day_Cash_Receipt_PC.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Penilaian Gratis, Tanpa Biaya Layanan
+                    Penerimaan Tunai di Hari yang Sama
                     </p>
                     <p class="reason_section_text">
-                    Kami akan menanggung semua biaya!
+                    Terima uang tunai segera setelah penilaian!
                     </p>
                 </div>
             </div>
@@ -118,10 +118,10 @@
                 <img src="../images/daiya/High-Price_Purchase_Campaign_PC.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Promo pembelian item bernilai tinggi
+                    Promo Pembelian Item dengan Harga Tinggi
                     </p>
                     <p class="reason_section_text">
-                    Kami berusaha maksimal menawarkan harga tinggi untuk memuaskan pelanggan kami!
+                    Kami berupaya menawarkan pembelian dengan harga tinggi untuk memastikan kepuasan pelanggan!
                     </p>
                 </div>
             </div>

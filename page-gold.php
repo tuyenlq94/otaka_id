@@ -82,7 +82,7 @@
 
                 <div class="titleMain--lead is-pc">
                     <p style="text-align: center; margin: 1rem;">
-                    Kunjungi toko spesialisasi pembelian Otakaraya untuk menjual dan menilai emas Anda<br>
+                    Kunjungi Otarakaya untuk penilaian dan penjualan emas Anda<br>
                     Otakaraya memiliki lebih dari 1.200 toko di seluruh Jepang, dan di toko-toko ini, staf penilai profesional dan berpengalaman akan memberi Anda harga pembelian yang memuaskan Anda
                     </p>
                 </div>

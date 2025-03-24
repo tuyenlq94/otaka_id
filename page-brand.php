@@ -1644,9 +1644,9 @@
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/platinum/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/2_pt.webp" alt="Pembelian logam mulia dan platinum"></p>
+                                <p><img src="../images/brand/2_pt.webp" alt="Pembelian Logam Mulia & Platinum"></p>
                             </div>
-                            <p class="text text--center">Pembelian logam mulia dan platinum</p>
+                            <p class="text text--center">Pembelian Logam Mulia & Platinum</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/daiya/" class="img__link">
                             <div class="img">

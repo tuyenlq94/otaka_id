@@ -7,7 +7,7 @@
         </div>
         <div class="tel__wrap">
             <p class="tel__img"><img src="../images/common/header_tel.png" alt="0120-555-600"></p>
-            <p class="tel__text">Jam kerja<br>(buka sepanjang tahun)<br> <br class="is-pc">8:00〜21:00</p>
+            <p class="tel__text">Jam Operasional <br>(buka sepanjang tahun) <br class="is-pc">8:00〜21:00</p>
 
             <div class="ex_link_wrap_top">
                 <a href="https://privacymark.jp" target="_blank" rel="noopener noreferrer" class="ex_link_top">
