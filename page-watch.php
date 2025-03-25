@@ -6350,7 +6350,7 @@
                             <!--アコーディオン：2025年最新！高く売れるブランド腕時計-->
                             <div class="brandinfo__main fshoplist-target__list">
                                 <div class="brandinfo__header fshoplist-target--ttl">
-                                    <h3 class="brandinfo__header__title">Update 2024! <br />
+                                    <h3 class="brandinfo__header__title">Pembaruan 2025! <br />
                                         Jam tangan bermerek yang dapat dijual dengan harga premium</h3>
                                 </div>
                                 <div class="fshoplist-target--item brandinfo__body no--image">
