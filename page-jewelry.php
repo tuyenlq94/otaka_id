@@ -4512,14 +4512,7 @@
                             Untuk pembelian diamond, item dengan grade 4C tinggi dipertimbangkan. Selain itu, kualitas batu disekitarnya, tidak hanya batu induk, juga berperan dalam penilaian. Jangan ragu untuk berkonsultasi dengan kami terlebih dahulu.</dd>
                         </dl>
                     </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Apakah 'depresiasi Yen / apresiasi yen' mempengaruhi harga beli?
-                            </dt>
-                            <dd class="qa__list__a">
-                            Karena batu permata seperti berlian tidak diproduksi di Jepang, maka batu tersebut dipengaruhi oleh nilai tukar seperti depresiasi yen atau apresiasi yen. Ketika yen terdepresiasi, nilai (harga) meningkat, dan ketika harga di pasar barang bekas naik, harga beli menjadi lebih tinggi.</dd>
-                        </dl>
-                    </div>
+
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
                             <dt class="qa__list__q">Bisakah Anda membeli kembali berlian yang dibeli sejak lama?
@@ -4552,13 +4545,6 @@
                             <dd class="qa__list__a">
                             Kualitas berlian yang dikenal dengan 4C dan ukurannya menjadi faktor utama yang mempengaruhi harga belinya.
                             </dd>
-                        </dl>
-                    </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Mengapa identifikasi diperlukan?
-                            </dt>
-                            <dd class="qa__list__a">Identifikasi penjual diwajibkan oleh Undang-Undang Dealer Barang Antik, dan kami diwajibkan menyimpan catatan untuk tujuan tersebut. Ini tidak akan digunakan untuk alasan lain apa pun.</dd>
                         </dl>
                     </div>
                 </div>

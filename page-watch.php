@@ -6660,12 +6660,6 @@
                     </div>
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Saya khawatir tetangga akan memperhatikan jika saya menggunakan layanan di luar toko (kunjungan rumah).</dt>
-                            <dd class="qa__list__a">Saat penilai kami mengunjungi rumah Anda dengan mobil, mereka akan menggunakan kendaraan pribadi tanpa logo perusahaan, sehingga Anda bisa merasa nyaman.</dd>
-                        </dl>
-                    </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
                             <dt class="qa__list__q">Bisakah saya menjual jam tangan yang sudah tidak berfungsi lagi?</dt>
                             <dd class="qa__list__a">Kami akan dengan senang hati menilainya untuk Anda.
                             Dalam banyak kasus, memberikan jam tangan dalam keadaan tidak berfungsi kepada kami dapat menghasilkan jumlah bersih yang lebih tinggi bagi Anda daripada membayar sendiri perbaikannya sebelum menjualnya.<br>

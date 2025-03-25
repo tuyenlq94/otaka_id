@@ -2049,30 +2049,10 @@
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
                             <dt class="qa__list__q">
-                            Saya khawatir tetangga akan memperhatikan jika saya menggunakan layanan kunjungan rumah...
-                            </dt>
-                            <dd class="qa__list__a">
-                            Saat penilai kami mengunjungi rumah Anda dengan mobil, mereka akan menggunakan kendaraan pribadi tanpa logo perusahaan, sehingga Anda bisa merasa nyaman.
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">
                             Bisakah Anda membeli barang tanpa aksesori?
                             </dt>
                             <dd class="qa__list__a">
                             Meskipun memiliki aksesori adalah hal yang ideal, kami dengan senang hati menilai dan membeli barang bahkan tanpa aksesori.
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">
-                            Mengapa identifikasi diperlukan?
-                            </dt>
-                            <dd class="qa__list__a">
-                            Identifikasi penjual diwajibkan oleh Undang-undang Dealer Barang Antik, dan kami diwajibkan menyimpan catatan untuk tujuan tersebut. Ini tidak akan digunakan untuk alasan lain.
                             </dd>
                         </dl>
                     </div>

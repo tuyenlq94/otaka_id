@@ -1810,12 +1810,7 @@
                 <div class="qa__wrap js__more--3th">
                     <!-- もっと見るなし -->
 
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Apakah boleh mengajukan penilaian dari luar wilayah metropolitan Tokyo?</dt>
-                            <dd class="qa__list__a">Penilai khusus akan berkunjung di mana pun tempat Anda di Jepang.</dd>
-                        </dl>
-                    </div>
+
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
                             <dt class="qa__list__q">Bisakah saya menjual jam tangan meskipun baterainya mati?</dt>
@@ -1835,12 +1830,7 @@
                             <dd class="qa__list__a">Ya, itu mungkin. Namun, harap dicatat bahwa pengembalian tidak dapat dilakukan apabila transaksi pembelian telah selesai.</dd>
                         </dl>
                     </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Apakah Otakaraya menawarkan pembelian melalui pos?                            </dt>
-                            <dd class="qa__list__a">Kami tidak menawarkan pembelian melalui pos. Metode pembelian yang tersedia adalah 'Pembelian diluar toko (Kunjungan Rumah)' atau 'pembelian di toko'.</dd>
-                        </dl>
-                    </div>
+
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
                             <dt class="qa__list__q">Bisakah Otakaraya membeli merek yang tidak tercantum di situs web?
@@ -1856,13 +1846,7 @@
                             <dd class="qa__list__a">Ya, kami bisa. Kami memiliki rekam jejak pembelian barang yang sebelumnya ditolak oleh perusahaan lain karena alasan seperti 'lama', 'kotor', atau 'rusak akibat sinar matahari'. Jangan ragu untuk menghubungi kami.</dd>
                         </dl>
                     </div>
-                    <div class="qa__list js__more--item3">
-                        <dl class="qa__list__inner">
-                            <dt class="qa__list__q">Apakah diperlukan tanda pengenal?
-                            </dt>
-                            <dd class="qa__list__a">Ya, diperlukan sesuai peraturan Undang-undang Penjual Barang Antik untuk verifikasi identitas. Yakinlah, itu tidak akan digunakan untuk tujuan lain apa pun.</dd>
-                        </dl>
-                    </div>
+
                     <div class="qa__list js__more--item3">
                         <dl class="qa__list__inner">
                             <dt class="qa__list__q">Berapa lama waktu yang dibutuhkan untuk penilaian di dalam toko?
