@@ -200,7 +200,7 @@ $k18_pt850_half = round($k18_half + $pt850_half);
                 <label for="type">Kemurnian</label>
                 <div class="form__liner">
                     <select id="rateSimulation--select">
-                        <option value="" selected="selected">select type</option>
+                        <option value="" selected="selected">pilih tipe</option>
                         <option value="<?php echo $price_gold; ?>">Gold Ingots（gold）</option>
                         <option value="<?php echo $k24_price; ?>" <?php if ($slug == "24kin") {
                                                                         echo "selected";
@@ -271,7 +271,7 @@ $k18_pt850_half = round($k18_half + $pt850_half);
                 <p>×</p>
             </li>
             <li>
-                <label for="weight">Weight</label>
+                <label for="weight">berat</label>
                 <div class="form__liner form__liner--weight w_unit w_gram active">
                     <input type="number" class="weight" min="1" max="100000" value="1" placeholder="グラムを入力">
                 </div>

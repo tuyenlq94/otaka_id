@@ -4,7 +4,7 @@
     </h2>
     <div class="titleMain--lead">
         <p>
-        Toko Pembelian Khusus Otakaraya dengan Lebih dari 1.200 Toko di seluruh Jepang<br />
+        Toko Pembelian Khusus Otakaraya dengan Lebih dari 1.300 Toko di seluruh Jepang<br />
         Selama 24 tahun sejak berdirii, kami, "Otakaraya", pemimpin industri terbesar, dengan bangga menyampaikan 9 alasan mengapa kami menawarkan pembelian bernilai tinggi.
         </p>
     </div>
@@ -48,7 +48,7 @@
                 <img src="../images/common/Over_1,300stores_nationwide_PC_EN.jpg">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Lebih dari 1.200 toko di seluruh Jepang!
+                    Lebih dari 1.300 toko di seluruh Jepang!
                     </p>
                     <p class="reason_section_text">
                     Keahlian Pembelian Nasional Terpusat di Setiap Toko!
@@ -104,10 +104,10 @@
                 <img src="../images/daiya/Same-Day_Cash_Receipt_PC.webp">
                 <div class="reason_section_text_area">
                     <p class="reason_section_ttl">
-                    Penerimaan Tunai di Hari yang Sama
+                    Penilaian gratis, tanpa biaya layanan
                     </p>
                     <p class="reason_section_text">
-                    Terima uang tunai segera setelah penilaian!
+                    Kami akan menanggung semua biaya
                     </p>
                 </div>
             </div>
