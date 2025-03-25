@@ -1425,21 +1425,7 @@
                         </div>
                     </div>
                     <div class="brandinfo brandinfo_red_repeat">
-                        <div class="brandinfo__main fshoplist-target__list">
-                            <div class="brandinfo__header fshoplist-target--ttl">
-                                <h3 class="brandinfo__header__title">
-                                    Mengapa Otakaraya Bisa Menawarkan Pembelian Emas dengan Harga Tinggi
-                                </h3>
-                            </div>
-                            <div class="fshoplist-target--item brandinfo__body no--image">
-                                <div class="brandinfo__body__text brandinfo__body__text--top">
-                                Sebagai toko khusus pembelian, Otakaraya tidak memiliki toko retail untuk menjual barang yang dibeli dari pelanggan.
-                                Barang yang kami beli diperdagangkan tidak hanya di Jepang tetapi juga dengan perusahaan dan bisnis lain di 44 negara di seluruh dunia.<br />
-                                    <br />
-                                    Dengan menghilangkan biaya yang terkait dengan penjualan, kami dapat menawarkan pembelian dengan harga tinggi yang unik di Otakaraya.
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="brandinfo__main fshoplist-target__list">
                             <div class="brandinfo__header fshoplist-target--ttl">
                                 <h3 class="brandinfo__header__title">Tren Harga Emas Selama 30 Tahun Terakhir</h3>
@@ -1501,21 +1487,7 @@
                         </div>
                     </div>
                     <!-- renew_202404_sellreason_item -->
-                    <h3 class="renew_202404_sellreason_shutter_title">
-                        Mengapa Otakaraya Bisa Menawarkan Pembelian Emas dengan Harga Tinggi
-                        <div class="renew_202404_sellreason_shutter_circle">
-                            <div class="renew_202404_sellreason_shutter_arrow"></div>
-                        </div>
-                    </h3>
-                    <div class="renew_202404_sellreason_shutter_story">
-                        <p>
-                            <span>Sebagai toko khusus pembelian, Otakaraya tidak memiliki toko retail untuk menjual barang yang dibeli dari pelanggan.</span>
-                            Barang yang kami beli diperdagangkan tidak hanya di Jepang tetapi juga dengan perusahaan dan bisnis lain di 44 negara di seluruh dunia.
-                        </p>
-                        <p>
-                        Dengan menghilangkan biaya yang terkait dengan penjualan, kami dapat menawarkan pembelian dengan harga tinggi yang unik di Otakaraya.
-                        </p>
-                    </div>
+
                     <h3 class="renew_202404_sellreason_shutter_title">
                         Tren Harga Emas Selama 30 Tahun Terakhir
                         <div class="renew_202404_sellreason_shutter_circle">
