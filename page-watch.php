@@ -6364,7 +6364,7 @@
                                                 ・Pembelian Breguet<br>
                                                 ・Pembelian Richard Mille<br>
                                                 ・Pembelian Omega<br>
-                                                ・pembelian IWC<br>
+                                                ・Pembelian IWC<br>
                                                 ・Pembelian Hublot<br>
                                             </div>
                                             <div class="text_"> ・ZENITH<br>

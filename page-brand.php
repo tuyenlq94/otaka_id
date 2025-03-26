@@ -1686,9 +1686,9 @@
                         </a> </div>
                     <div class="col"> <a href="./chanel/" class="img__link">
                             <div class="img">
-                                <p><img src="../images/brand/20_chanel.webp" alt="pembelian Chanel"></p>
+                                <p><img src="../images/brand/20_chanel.webp" alt="Pembelian Chanel"></p>
                             </div>
-                            <p class="text text--center">pembelian Chanel</p>
+                            <p class="text text--center">Pembelian Chanel</p>
                         </a> </div>
                     <div class="col"> <a href="https://www.otakaraya.jp/kitte/" class="img__link">
                             <div class="img">

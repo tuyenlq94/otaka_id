@@ -136,21 +136,21 @@
                     </a>
                     <a href="/brand-tokei/iwc/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img7@4x.webp" alt="pembelian IWC">
+                            <img src="images/index/handling_brand_img7@4x.webp" alt="Pembelian IWC">
                         </div>
-                        <p class="products_area_text">pembelian IWC</p>
+                        <p class="products_area_text">Pembelian IWC</p>
                     </a>
                     <a href="/brand/cartier/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img8@4x.webp" alt="pembelian Cartier">
+                            <img src="images/index/handling_brand_img8@4x.webp" alt="Pembelian Cartier">
                         </div>
-                        <p class="products_area_text">pembelian Cartier</p>
+                        <p class="products_area_text">Pembelian Cartier</p>
                     </a>
                     <a href="/brand/louis-vuitton/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img9@4x.webp" alt="pembelian Louis Vuitton">
+                            <img src="images/index/handling_brand_img9@4x.webp" alt="Pembelian Louis Vuitton">
                         </div>
-                        <p class="products_area_text">pembelian Louis Vuitton</p>
+                        <p class="products_area_text">Pembelian Louis Vuitton</p>
                     </a>
                     <a href="/brand/hermes/">
                         <div class="products_area_img_wrap">
@@ -160,9 +160,9 @@
                     </a>
                     <a href="/brand/chanel/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img11@4x.webp" alt="pembelian Chanel">
+                            <img src="images/index/handling_brand_img11@4x.webp" alt="Pembelian Chanel">
                         </div>
-                        <p class="products_area_text">pembelian Chanel</p>
+                        <p class="products_area_text">Pembelian Chanel</p>
                     </a>
                     <a href="/brand/dior/">
                         <div class="products_area_img_wrap">
@@ -172,9 +172,9 @@
                     </a>
                     <a href="/brand/celine/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img13@4x.webp" alt="pembelian Cartier">
+                            <img src="images/index/handling_brand_img13@4x.webp" alt="Pembelian Cartier">
                         </div>
-                        <p class="products_area_text">pembelian Cartier</p>
+                        <p class="products_area_text">Pembelian Cartier</p>
                     </a>
                     <a href="/brand/fendi/">
                         <div class="products_area_img_wrap">
@@ -184,9 +184,9 @@
                     </a>
                     <a href="/brand/gucci/">
                         <div class="products_area_img_wrap">
-                            <img src="images/index/handling_brand_img15@4x.webp" alt="pembelian Gucci">
+                            <img src="images/index/handling_brand_img15@4x.webp" alt="Pembelian Gucci">
                         </div>
-                        <p class="products_area_text">pembelian Gucci</p>
+                        <p class="products_area_text">Pembelian Gucci</p>
                     </a>
                 </div>
             </section>
