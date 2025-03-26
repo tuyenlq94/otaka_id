@@ -145,7 +145,7 @@
                                     </div>
                                 </div>
                                 <div class="repeater-item">
-                                    <div class="brand_repeat_img"> <img src="../images/brand_tokei/price_list_rorex_img5.webp" alt="オメガ">
+                                    <div class="brand_repeat_img"> <img src="../images/brand_tokei/price_list_rorex_img5.webp" alt="Omega">
                                     </div>
                                     <div class="brand_text">
                                         <p>Omega</p>
@@ -251,8 +251,8 @@
                     </div>
                     <p class="american_indian">*Harga di atas dihitung berdasarkan referensi harga pasar. Harga sebenarnya dapat bervariasi tergantung pada kondisi barang dan waktu.<br />
                         *Referensi harga menampilkan nilai tertinggi.</p>
-                    <img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="高くなってるかも"> <img class="is-sp"
-                        src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="高くなってるかも">
+                    <img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="Ini mungkin menjadi mahal"> <img class="is-sp"
+                        src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="Ini mungkin menjadi mahal">
                 </div>
             </section>
             <!--//END sec brand_tokei_sec01 -->
@@ -5238,15 +5238,15 @@
                         <!--壊れた時計でも買い取ります！-->
                         <div class="state_bad_purchase_section_bottom_content theme_color_border">
                             <h3 class="theme_b_color">Jam tangan rusak sekalipun akan kami beli!</h3>
-                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="時計画像1">
+                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="Gambar jam 1">
                                 <p class="theme_color_text theme_color">\ Bahkan dalam kondisi seperti ini, kami dengan senang hati membeli! /</p>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan kaca yang retak</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan yang tidak bergerak (tidak berfungsi)</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan yang rusak karena air dan terdapat karat di dalamnya</p>
                                 </div>
                                 <p class="description_text">Jam tangan yang rusak, seperti 'jam tangan yang kacanya retak karena terjatuh' atau 'rusak karena air dan tidak berfungsi lagi', terkadang memerlukan biaya perbaikan yang tinggi. Tetapi di 'Otakaraya', kami menilai harga jam tangan dengan penawaran harga pembelian yang tinggi meskipun jam itu memerlukan perbaikan. Sebelum menyerah, jangan ragu untuk berkonsultasi dengan kami!</p>
@@ -5259,12 +5259,12 @@
                         <!--傷が多い時計も買取可能！-->
                         <div class="state_bad_purchase_section_bottom_content theme_color_border">
                             <h3 class="theme_b_color">Jam tangan dengan banyak goresan pun akan kami beli!</h3>
-                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="時計画像2">
+                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="Gambar jam 2">
                                 <p class="theme_color_text theme_color">\ Bahkan dalam kondisi seperti ini, kami dengan senang hati membeli! /</p>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan banyak goresan atau penyok</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan kotoran yang terlihat akibat penggunaan sehari-hari</p>
                                 </div>
                                 <p class="description_text">Dalam penggunaan sehari-hari, tidak dapat dipungkiri bahwa goresan dan penyok kecil akan muncul pada jam tangan Anda. Di 'Otakaraya', kami menilai dan membeli jam tangan dengan goresan sebesar apapun serta dapat diperbaiki melalui pemolesan. Apapun kerusakannya, jangan ragu untuk berkonsultasi dengan kami terlebih dahulu.</p>
@@ -5277,15 +5277,15 @@
                         <!-- 古い時計でも高価買取！-->
                         <div class="state_bad_purchase_section_bottom_content theme_color_border">
                             <h3 class="theme_b_color">Bahkan jam tangan bekas pun bisa dijual dengan harga tinggi!</h3>
-                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="時計画像3">
+                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="Gambar jam 3">
                                 <p class="theme_color_text theme_color">\ Bahkan dalam kondisi seperti ini, kami dengan senang hati membeli! /</p>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan karat yang terlihat jelas</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan angka yang berubah warna</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan angka yang hilang</p>
                                 </div>
                                 <p class="description_text">Bahkan jam tangan yang sudah tua pun tetap mempertahankan nilai mereknya. Jam tangan yang menurut Anda tidak bisa dijual karena berkarat masih bisa kami beli. Jam tangan antik dan klasik, bahkan dengan tanda-tanda termakan usia pun, memiliki potensi untuk diperbaiki atau direstorasi, dan terkadang dapat menghasilkan harga penilaian tinggi yang tidak terduga. Coba layanan penilaian gratis kami terlebih dahulu!</p>
@@ -5296,15 +5296,15 @@
                         <!-- 部品が欠けている時計も！-->
                         <div class="state_bad_purchase_section_bottom_content theme_color_border">
                             <h3 class="theme_b_color">Bahkan dengan bagian jam tangan yang hilang!</h3>
-                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="時計画像4">
+                            <div class="state_bad_purchase_section_bottom_content_wrap"> <img src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="Gambar jam 4">
                                 <p class="theme_color_text theme_color">\ Bahkan dalam kondisi seperti ini, kami dengan senang hati membeli! /</p>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan tanpa strap atau pengait</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan mahkota atau tombol tekan yang hilang</p>
                                 </div>
-                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="チェックアイコン">
+                                <div class="state_bad_items"> <img src="../images/brand_tokei/check.webp" alt="Ikon centang">
                                     <p>Jam tangan dengan sekrup atau bagian yang hilang</p>
                                 </div>
                                 <p class="description_text">Apakah Anda tetap berpikir bahwa 'Tidak bisa dijual karena ada bagian yang hilang'?
@@ -5403,7 +5403,7 @@
                                 </div>
                                 <div class="latest_results_item " style="display: block;">
                                     <div class="latest_results_image img"> <img width="300" height="300"
-                                            src="../images/brand_tokei/fa0aaf015d15ad182d3e569d5df12c82.jpg" alt="olex　Daytona　16520"> </div>
+                                            src="../images/brand_tokei/fa0aaf015d15ad182d3e569d5df12c82.jpg" alt="Rolex　Daytona　16520"> </div>
                                     <div class="latest_results_text_area_wrap">
                                         <div class="brand_name">
                                             <div class="latest_results_area">

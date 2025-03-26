@@ -78,9 +78,9 @@
             </section>
             <section class="simple_cta_top">
                 <div class="kv_area">
-                    <p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+                    <p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="Berlian yang tidak aktif: Jika Anda tidak menjualnya sekarang, Anda mungkin rugi! ....">
                     </p>
-                    <p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+                    <p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="Berlian yang tidak aktif: Jika Anda tidak menjualnya sekarang, Anda mungkin rugi! ....">
                     </p>
                 </div>
             </section>
@@ -1686,9 +1686,9 @@
                                 <div class="renew_2024_result_itembox">
                                     <div class="renew_2024_result_item_image"><img width="300" height="300"
                                             src="../images/daiya/b8f9a66b7c1c0eaf3a43bd5dbb20d788-300x300.webp"
-                                            class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
+                                            class="attachment-thumbnail size-thumbnail" alt="Diamond necklace Pt・Pm850 0.449ct"
                                             decoding="async" loading="lazy" sizes="100vw"></div>
-                                    <div class="renew_2024_result_item_name">diamond necklace Pt・Pm850 0.449ct</div>
+                                    <div class="renew_2024_result_item_name">Diamond necklace Pt・Pm850 0.449ct</div>
                                     <div class="renew_2024_result_item_kaitori">Referensi Harga Pembelian</div>
                                     <div class="renew_2024_result_item_price">29,700<span class="unit">&yen;</span></div>
                                     <div class="renew_2024_result_item_arrow">
@@ -1700,9 +1700,9 @@
                                 <div class="renew_2024_result_itembox">
                                     <div class="renew_2024_result_item_image"><img width="300" height="300"
                                             src="../images/daiya/c4e08d8f36be3877e44fc641d6a7648d-300x300.jpg"
-                                            class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
+                                            class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat pt850"
                                             decoding="async" loading="lazy" sizes="100vw"></div>
-                                    <div class="renew_2024_result_item_name">diamond necklace 1carat pt850</div>
+                                    <div class="renew_2024_result_item_name">Diamond necklace 1carat pt850</div>
                                     <div class="renew_2024_result_item_kaitori">Referensi Harga Pembelian</div>
                                     <div class="renew_2024_result_item_price">49,500<span class="unit">&yen;</span></div>
                                     <div class="renew_2024_result_item_arrow">
@@ -1714,9 +1714,9 @@
                                 <div class="renew_2024_result_itembox">
                                     <div class="renew_2024_result_item_image"><img width="300" height="300"
                                             src="../images/daiya/ae65a7f7eb26d47380d54fa69f44687e-300x300.jpg"
-                                            class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat Pt850・Pt900 combi"
+                                            class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat Pt850・Pt900 combi"
                                             decoding="async" loading="lazy" sizes="100vw"></div>
-                                    <div class="renew_2024_result_item_name">diamond necklace 1carat Pt850・Pt900 combi</div>
+                                    <div class="renew_2024_result_item_name">Diamond necklace 1carat Pt850・Pt900 combi</div>
                                     <div class="renew_2024_result_item_kaitori">Referensi Harga Pembelian</div>
                                     <div class="renew_2024_result_item_price">47,300<span class="unit">&yen;</span></div>
                                     <div class="renew_2024_result_item_arrow">
@@ -1728,9 +1728,9 @@
                                 <div class="renew_2024_result_itembox">
                                     <div class="renew_2024_result_item_image"><img width="300" height="300"
                                             src="../images/daiya/99856989f40e8b5ee2e353374eafeee8-300x300.webp"
-                                            class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
+                                            class="attachment-thumbnail size-thumbnail" alt="Diamondnecklace 1.2carat"
                                             decoding="async" loading="lazy" sizes="100vw"></div>
-                                    <div class="renew_2024_result_item_name">diamondnecklace 1.2carat</div>
+                                    <div class="renew_2024_result_item_name">Diamondnecklace 1.2carat</div>
                                     <div class="renew_2024_result_item_kaitori">Referensi Harga Pembelian</div>
                                     <div class="renew_2024_result_item_price">93,500<span class="unit">&yen;</span></div>
                                     <div class="renew_2024_result_item_arrow">
@@ -2421,10 +2421,10 @@
                                             </p>
                                             <p class="content__image img"><img width="300" height="300"
                                                     src="../images/daiya/c4e08d8f36be3877e44fc641d6a7648d-300x300.jpg"
-                                                    class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
+                                                    class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat pt850"
                                                     decoding="async" loading="lazy" sizes="100vw"></p>
                                             <p></p>
-                                            <p class="content--name">diamond necklace 1carat pt850</p>
+                                            <p class="content--name">Diamond necklace 1carat pt850</p>
                                         </div>
 
                                     </a>
@@ -2441,10 +2441,10 @@
                                             </p>
                                             <p class="content__image img"><img width="300" height="300"
                                                     src="../images/daiya/b8f9a66b7c1c0eaf3a43bd5dbb20d788-300x300.webp"
-                                                    class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
+                                                    class="attachment-thumbnail size-thumbnail" alt="Diamond necklace Pt・Pm850 0.449ct"
                                                     decoding="async" loading="lazy" sizes="100vw"></p>
                                             <p></p>
-                                            <p class="content--name">diamond necklace Pt・Pm850 0.449ct</p>
+                                            <p class="content--name">Diamond necklace Pt・Pm850 0.449ct</p>
                                         </div>
 
                                     </a>
@@ -2461,10 +2461,10 @@
                                             </p>
                                             <p class="content__image img"><img width="300" height="300"
                                                     src="../images/daiya/99856989f40e8b5ee2e353374eafeee8-300x300.webp"
-                                                    class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
+                                                    class="attachment-thumbnail size-thumbnail" alt="Diamondnecklace 1.2carat"
                                                     decoding="async" loading="lazy" sizes="100vw"></p>
                                             <p></p>
-                                            <p class="content--name">diamondnecklace 1.2carat</p>
+                                            <p class="content--name">Diamondnecklace 1.2carat</p>
                                         </div>
 
                                     </a>
@@ -2481,10 +2481,10 @@
                                             </p>
                                             <p class="content__image img"><img width="300" height="300"
                                                     src="../images/daiya/b8c211efa76fc22dc3cc0f32a8ff6bf9-300x300.webp"
-                                                    class="attachment-thumbnail size-thumbnail" alt="diamond necklace 10.5 ct"
+                                                    class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 10.5 ct"
                                                     decoding="async" loading="lazy" sizes="100vw"></p>
                                             <p></p>
-                                            <p class="content--name">diamond necklace 10.5 ct</p>
+                                            <p class="content--name">Diamond necklace 10.5 ct</p>
                                         </div>
 
                                     </a>
@@ -3863,7 +3863,7 @@
                     <div class="colBox colBox__col01">
                         <div class="col" style="display: flex; justify-content: space-between;">
                             <div class="img gg_holder_profile">
-                                <img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="岩松利香のプロフィール">
+                                <img src="../images/daiya/568433d3328efc80e6346b56a8db47df.webp" alt="Rika Iwamatsu">
                             </div>
                             <div class="gg_profile">
                                 <h4 class="titleSub" style="color:black;">Rika Iwamatsu</h4>
@@ -3979,7 +3979,7 @@
                 <div class="renew_2024_top_gg_desc">
                 Kualifikasi Ahli Lulusan Gemologi (GG) merupakan kualifikasi untuk ahli gemologi yang dihormati secara global yang ditawarkan oleh GIA (Institut Gemologi Amerika), dan juga dikenal sebagai "lulusan Gemologi". Otakaraya memiliki anggota staf yang memiliki kualifikasi GG, dan juga secara teratur menyediakan pendidikan penilai melalui sistem pelatihannya. Hal ini memungkinkan kami untuk memberikan penilaian tingkat tinggi dan akurat terhadap batu permata apa pun.
                 </div>
-                <img class="renew_2024_top_gg_photo" src="../images/daiya/photo_iwamatsu_202404_en.webp" alt="岩松 ">
+                <img class="renew_2024_top_gg_photo" src="../images/daiya/photo_iwamatsu_202404_en.webp" alt="Iwamatsu ">
                 <div class="renew_2024_top_gg_profile_superbox">
                     <div class="renew_2024_top_gg_profile_flex">
                         <div class="renew_2024_top_gg_profile_left">
@@ -4015,7 +4015,7 @@
                     </div>
                     <div class="renew_2024_top_gg_profile_itembox">
                         <img class="renew_2024_top_gg_profile_gg_certificate_img"
-                            src="../images/daiya/e3eeb8346efbe5cff2b0ba7d1f7c1987.webp" alt="GGの証明書">
+                            src="../images/daiya/e3eeb8346efbe5cff2b0ba7d1f7c1987.webp" alt="Sertifikat GG">
                     </div>
                     <div class="renew_2024_top_gg_profile_itembox">
                         <!-- appraisal_equips -->
@@ -4118,7 +4118,7 @@
                             <div class="col">
                                 <div class="img">
                                     <img class="custom-popup-img" src="../images/daiya/kantei_org.webp"
-                                        alt="鑑定書について">
+                                        alt="Tentang sertifikat">
                                 </div>
                             </div>
                         </div>
@@ -4242,7 +4242,7 @@
                     Sertifikat atau laporan identifikasi diberikan saat membeli berlian, merinci asal dan jenis berlian. Jika Anda memilikinya, harap membawa sertifikat dan tanda pengenal saat menjual berlian tersebut.
                 </div>
                 <div class="renew_2024_auth_item_superbox">
-                    <img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="鑑定書について">
+                    <img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="Tentang sertifikat">
                     <h3 class="renew_2024_auth_title_about">
                         GIA (Institut Gemologi Amerika)
                     </h3>
@@ -4250,7 +4250,7 @@
                         src="../images/daiya/diamond_GIA.webp"
                         alt="GIA (Institut Gemologi Amerika)">
                     <h3 class="renew_2024_auth_title_about">
-                        ダイヤモンド鑑定書の見方
+                    Cara membaca sertifikat berlian
                     </h3>
                     <div class="renew_2024_auth_howtoread_itembox">
                         <div class="renew_2024_auth_howtoread_titlebox">

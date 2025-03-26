@@ -25,12 +25,12 @@
                 </div>
             </div>
             <div class="sidebar__cta">
-                <img src="../images/common/EN_sidebar_cta_header.webp" alt="まずは無料査定" width="320" height="223">
+                <img src="../images/common/EN_sidebar_cta_header.webp" alt="Dapatkan perkiraan gratis" width="320" height="223">
                 <a href="tel:9071 6119" class="cta__banner--bnr2 is-sp">
-                    <img src="../images/common/EN_sidebar_cta_online.webp" alt="まずは電話で聞いてみる 0120-555-600">
+                    <img src="../images/common/EN_sidebar_cta_online.webp" alt="Pertama, tanyakan lewat telepon 0120-555-600">
                 </a>
                 <a href="https://wa.me/85290716119" class="cta__banner--bnr3">
-                    <img src="../images/common/EN_sidebar_cta_online.webp" alt="webで簡単査定" width="320" height="112">
+                    <img src="../images/common/EN_sidebar_cta_online.webp" alt="Penilaian online yang mudah" width="320" height="112">
                 </a>
             </div>
 

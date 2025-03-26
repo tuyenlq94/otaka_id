@@ -114,48 +114,48 @@
                             <h3 class="expensive_purchase_brand_item_h4"> Pembelian Hermes </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="pembelian Chanel"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Chanel </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="Pembelian Chanel"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Chanel </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="pembelian Louis Vuitton"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Louis Vuitton </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="Pembelian Louis Vuitton"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Louis Vuitton </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="pembelian Harry Winston"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Harry Winston </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="Pembelian Harry Winston"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Harry Winston </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="pembelian Van Cleef & Arpels"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Van Cleef & Arpels </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="Pembelian Van Cleef & Arpels"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Van Cleef & Arpels </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
                             <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="Pembelian Tiffany"> </div>
                             <h3 class="expensive_purchase_brand_item_h4"> Pembelian Tiffany </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="pembelian Cartier"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Cartier </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="Pembelian Cartier"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Cartier </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="pembelian Bulgari"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Bulgari </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="Pembelian Bulgari"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Bulgari </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="pembelian Gucci"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Gucci </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Pembelian Gucci"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Gucci </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="pembelian Dior"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Dior </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="Pembelian Dior"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Dior </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="pembelian Prada"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Prada </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="Pembelian Prada"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Prada </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="pembelian Chopard"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Chopard </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="Pembelian Chopard"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Chopard </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_item_dummy"></div>
                     <div class="expensive_purchase_brand_item_dummy"></div>
@@ -172,48 +172,48 @@
                             <h3 class="expensive_purchase_brand_item_h4"> Pembelian Hermes </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="pembelian Chanel"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Chanel </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="Pembelian Chanel"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Chanel </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="pembelian Louis Vuitton"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Louis Vuitton </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="Pembelian Louis Vuitton"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Louis Vuitton </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="pembelian Harry Winston"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Harry Winston </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="Pembelian Harry Winston"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Harry Winston </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="pembelian Van Cleef & Arpels"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Van Cleef & Arpels </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="Pembelian Van Cleef & Arpels"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Van Cleef & Arpels </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
                             <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="Pembelian Tiffany"> </div>
                             <h3 class="expensive_purchase_brand_item_h4"> Pembelian Tiffany </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="pembelian Cartier"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Cartier </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="Pembelian Cartier"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Cartier </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="pembelian Bulgari"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Bulgari </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="Pembelian Bulgari"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Bulgari </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="pembelian Gucci"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Gucci </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Pembelian Gucci"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Gucci </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="pembelian Dior"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Dior </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="Pembelian Dior"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Dior </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="pembelian Prada"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Prada </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="Pembelian Prada"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Prada </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
-                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="pembelian Chopard"> </div>
-                            <h3 class="expensive_purchase_brand_item_h4"> pembelian Chopard </h3>
+                            <div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="Pembelian Chopard"> </div>
+                            <h3 class="expensive_purchase_brand_item_h4"> Pembelian Chopard </h3>
                         </a> </div>
                     <div class="expensive_purchase_brand_item_dummy"></div>
                     <div class="expensive_purchase_brand_item_dummy"></div>
@@ -239,8 +239,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./chanel/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/matelasse.webp" alt="pembelian Chanel"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Chanel
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/matelasse.webp" alt="Pembelian Chanel"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Chanel
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -249,8 +249,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./louis-vuitton/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/monogram.webp" alt="pembelian Louis Vuitton"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Louis Vuitton
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/monogram.webp" alt="Pembelian Louis Vuitton"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Louis Vuitton
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -259,8 +259,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./harrywinston/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/lily.webp" alt="pembelian Harry Winston"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Harry Winston
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/lily.webp" alt="Pembelian Harry Winston"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Harry Winston
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -269,8 +269,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./vancleefarpels/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/alhambra.webp" alt="pembelian Van Cleef & Arpels"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Van Cleef & Arpels
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/alhambra.webp" alt="Pembelian Van Cleef & Arpels"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Van Cleef & Arpels
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -289,8 +289,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./cartier/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/lovering.webp" alt="pembelian Cartier"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Cartier
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/lovering.webp" alt="Pembelian Cartier"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Cartier
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -299,8 +299,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./bvlgari/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/bzeroone.webp" alt="pembelian Bulgari"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Bulgari
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/bzeroone.webp" alt="Pembelian Bulgari"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Bulgari
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -309,8 +309,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./gucci/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/ggmarmont.webp" alt="pembelian Gucci"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Gucci
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/ggmarmont.webp" alt="Pembelian Gucci"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Gucci
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -319,8 +319,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./dior/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/ladydior.webp" alt="pembelian Dior"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Dior
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/ladydior.webp" alt="Pembelian Dior"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Dior
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -329,8 +329,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./prada/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/saffiano.webp" alt="pembelian Prada"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Prada
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/saffiano.webp" alt="Pembelian Prada"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Prada
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -339,8 +339,8 @@
                                 </a> </div>
                             <div class="renew_2024_expensive_purchase_itembox_wrap"> <a href="./chopard/" class="img__link">
                                     <div class="renew_2024_expensive_purchase_itembox">
-                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/happydiamond.webp" alt="pembelian Chopard"> </div>
-                                        <h3 class="renew_2024_expensive_purchase_item_brand">pembelian Chopard
+                                        <div class="renew_2024_expensive_purchase_item_image"> <img src="../images/brand/happydiamond.webp" alt="Pembelian Chopard"> </div>
+                                        <h3 class="renew_2024_expensive_purchase_item_brand">Pembelian Chopard
                                             <div class="renew_2024_expensive_purchase_item_arrow">
                                                 <div></div>
                                             </div>
@@ -1008,7 +1008,7 @@
                                 </li>
                                 <li class="content__item"> <a href="../brand/result/else-top/43209/" class="img__link">
                                         <div class="content_item_wrap">
-                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220218-11-1.webp" class="attachment-thumbnail size-thumbnail" alt="Boucheron quatre radiant リング 收購參考價格"></p>
+                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220218-11-1.webp" class="attachment-thumbnail size-thumbnail" alt="Boucheron quatre radiant"></p>
                                             <p class="content--name">Boucheron quatre radiant ring</p>
                                         </div>
                                     </a>
@@ -1019,7 +1019,7 @@
                                 </li>
                                 <li class="content__item"> <a href="../brand/result/else-top/16403/" class="img__link">
                                         <div class="content_item_wrap">
-                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220418-1771_02.webp" class="attachment-thumbnail size-thumbnail" alt="Piaget rose diamond necklace 收購參考價格"></p>
+                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220418-1771_02.webp" class="attachment-thumbnail size-thumbnail" alt="Piaget rose diamond necklace "></p>
                                             <p class="content--name">Piaget rose diamond necklace</p>
                                         </div>
                                     </a>
@@ -1030,7 +1030,7 @@
                                 </li>
                                 <li class="content__item"> <a href="../brand/result/else-top/16346/" class="img__link">
                                         <div class="content_item_wrap">
-                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220218-157_02.webp" class="attachment-thumbnail size-thumbnail" alt="Chopard happy diamond necklace 收購參考價格"></p>
+                                            <p class="content__image img"> <img width="300" height="300" src="../images/brand/20220218-157_02.webp" class="attachment-thumbnail size-thumbnail" alt="Chopard happy diamond necklace "></p>
                                             <p class="content--name">Chopard happy diamond necklace</p>
                                         </div>
                                     </a>
@@ -1561,21 +1561,21 @@
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/hason-1.webp" alt="sobekan"></p>
+                            <p><img src="../images/brand/hason-1.webp" alt="Sobekan"></p>
                         </div>
-                        <p class="text text--center">sobekan</p>
+                        <p class="text text--center">Sobekan</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/hurui_design-1.webp" alt="dan desain lama."></p>
+                            <p><img src="../images/brand/hurui_design-1.webp" alt="Dan desain lama."></p>
                         </div>
-                        <p class="text text--center">dan desain lama.</p>
+                        <p class="text text--center">Dan desain lama.</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/yabure-1.webp" alt="kotoran"></p>
+                            <p><img src="../images/brand/yabure-1.webp" alt="Kotoran"></p>
                         </div>
-                        <p class="text text--center">kotoran</p>
+                        <p class="text text--center">Kotoran</p>
                     </div>
                     <div class="col">
                         <div class="img">
@@ -1585,21 +1585,21 @@
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/hiyake-1.webp" alt="kerusakan akibat sinar matahari"></p>
+                            <p><img src="../images/brand/hiyake-1.webp" alt="Kerusakan akibat sinar matahari"></p>
                         </div>
-                        <p class="text text--center">kerusakan akibat sinar matahari</p>
+                        <p class="text text--center">Kerusakan akibat sinar matahari</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/huzokuhin-1.webp" alt="aksesori hilang"></p>
+                            <p><img src="../images/brand/huzokuhin-1.webp" alt="Aksesori hilang"></p>
                         </div>
-                        <p class="text text--center">aksesori hilang</p>
+                        <p class="text text--center">Aksesori hilang</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/sabi-1.webp" alt="dan karat"></p>
+                            <p><img src="../images/brand/sabi-1.webp" alt="Dan karat"></p>
                         </div>
-                        <p class="text text--center">dan karat</p>
+                        <p class="text text--center">Dan karat</p>
                     </div>
                     <div class="col">
                         <div class="img">
@@ -1609,27 +1609,27 @@
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="noda tinta"></p>
+                            <p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="Noda tinta"></p>
                         </div>
-                        <p class="text text--center">noda tinta</p>
+                        <p class="text text--center">Noda tinta</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp" alt="perubahan warna bagian dalam"></p>
+                            <p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp" alt="Perubahan warna bagian dalam"></p>
                         </div>
-                        <p class="text text--center">perubahan warna bagian dalam</p>
+                        <p class="text text--center">Perubahan warna bagian dalam</p>
                     </div>
                     <div class="col">
                         <div class="img">
-                            <p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp" alt="dan kotoran pada kulit yang tidak dirawat."></p>
+                            <p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp" alt="Dan kotoran pada kulit yang tidak dirawat."></p>
                         </div>
-                        <p class="text text--center">dan kotoran pada kulit yang tidak dirawat.</p>
+                        <p class="text text--center">Dan kotoran pada kulit yang tidak dirawat.</p>
                     </div>
                 </div>
             </section>
             <a href="/watch/">
-                <img class="bar_brandwatch_purchase is-pc" src="../images/brand/ENbrand_watch_bnr.webp" alt="名牌手錶">
-                <img class="bar_brandwatch_purchase is-sp" src="../images/brand/EN_brand_watch_bnr_sp.webp" alt="名牌手錶">
+                <img class="bar_brandwatch_purchase is-pc" src="../images/brand/ENbrand_watch_bnr.webp" alt="Jam tangan desainer">
+                <img class="bar_brandwatch_purchase is-sp" src="../images/brand/EN_brand_watch_bnr_sp.webp" alt="Jam tangan desainer">
             </a>
             <section class="otakaraya_purchase_goods">
                 <div class="titleMain titleMain--wrapper">

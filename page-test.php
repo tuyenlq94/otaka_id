@@ -44,9 +44,9 @@
 
 
   <div class="fv_img_wrap">
-    <img class="is-pc" src="../images/daiya/jewelry_FV_PC_HK.webp" alt="損したくない!?なら絶対!高価買取「OTAKARAYA」">
+    <img class="is-pc" src="../images/daiya/jewelry_FV_PC_HK.webp" alt="Tidak ingin kehilangan uang? Kemudian pilih opsi pembelian bernilai tinggi "OTAKARAYA"">
 
-    <img class="is-sp" src="../images/daiya/jewelry_FV_SP_HK.webp" alt="損したくない!?なら絶対!高価買取「OTAKARAYA」">
+    <img class="is-sp" src="../images/daiya/jewelry_FV_SP_HK.webp" alt="Tidak ingin kehilangan uang? Kemudian pilih opsi pembelian bernilai tinggi "OTAKARAYA"">
   </div>
   <!-- <div class="under_mv">
         <img class="is-pc" style="max-width: 1400px; margin: auto; width: 100%; margin-top: 1rem;" src="../images/daiya/2024_1216-1222キャンペーン_daiya_PC.webp" alt="買取金額UP!">
@@ -72,9 +72,9 @@
       </section>
       <section class="simple_cta_top">
         <div class="kv_area">
-          <p class="is-pc"><img src="../images/daiya/diamond_banner_PC_HK.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+          <p class="is-pc"><img src="../images/daiya/diamond_banner_PC_HK.webp" alt="Berlian yang tidak aktif: Jika Anda tidak menjualnya sekarang, Anda mungkin rugi! ....">
           </p>
-          <p class="is-sp"><img src="../images/daiya/diamond_banner_SP_HK.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+          <p class="is-sp"><img src="../images/daiya/diamond_banner_SP_HK.webp" alt="Berlian yang tidak aktif: Jika Anda tidak menjualnya sekarang, Anda mungkin rugi! ....">
           </p>
         </div>
       </section>
@@ -359,9 +359,9 @@
                 <div class="renew_2024_result_itembox">
                   <div class="renew_2024_result_item_image"><img width="150" height="150"
                       src="../images/daiya/b8c211efa76fc22dc3cc0f32a8ff6bf9-150x150.webp"
-                      class="attachment-thumbnail size-thumbnail" alt="diamond necklace 10.5 ct"
+                      class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 10.5 ct"
                       decoding="async" loading="lazy" sizes="100vw"></div>
-                  <div class="renew_2024_result_item_name">diamond necklace 10.5 ct</div>
+                  <div class="renew_2024_result_item_name">Diamond necklace 10.5 ct</div>
                   <div class="renew_2024_result_item_kaitori">收購參考價格</div>
                   <div class="renew_2024_result_item_price">858,000<span class="unit">&yen;</span></div>
                   <div class="renew_2024_result_item_arrow">
@@ -457,9 +457,9 @@
                 <div class="renew_2024_result_itembox">
                   <div class="renew_2024_result_item_image"><img width="150" height="150"
                       src="../images/daiya/b8f9a66b7c1c0eaf3a43bd5dbb20d788-150x150.webp"
-                      class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
+                      class="attachment-thumbnail size-thumbnail" alt="Diamond necklace Pt・Pm850 0.449ct"
                       decoding="async" loading="lazy" sizes="100vw"></div>
-                  <div class="renew_2024_result_item_name">diamond necklace Pt・Pm850 0.449ct</div>
+                  <div class="renew_2024_result_item_name">Diamond necklace Pt・Pm850 0.449ct</div>
                   <div class="renew_2024_result_item_kaitori">收購參考價格</div>
                   <div class="renew_2024_result_item_price">29,700<span class="unit">&yen;</span></div>
                   <div class="renew_2024_result_item_arrow">
@@ -471,9 +471,9 @@
                 <div class="renew_2024_result_itembox">
                   <div class="renew_2024_result_item_image"><img width="150" height="150"
                       src="../images/daiya/c4e08d8f36be3877e44fc641d6a7648d-150x150.jpg"
-                      class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
+                      class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat pt850"
                       decoding="async" loading="lazy" sizes="100vw"></div>
-                  <div class="renew_2024_result_item_name">diamond necklace 1carat pt850</div>
+                  <div class="renew_2024_result_item_name">Diamond necklace 1carat pt850</div>
                   <div class="renew_2024_result_item_kaitori">收購參考價格</div>
                   <div class="renew_2024_result_item_price">49,500<span class="unit">&yen;</span></div>
                   <div class="renew_2024_result_item_arrow">
@@ -485,9 +485,9 @@
                 <div class="renew_2024_result_itembox">
                   <div class="renew_2024_result_item_image"><img width="150" height="150"
                       src="../images/daiya/ae65a7f7eb26d47380d54fa69f44687e-150x150.jpg"
-                      class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat Pt850・Pt900 combi"
+                      class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat Pt850・Pt900 combi"
                       decoding="async" loading="lazy" sizes="100vw"></div>
-                  <div class="renew_2024_result_item_name">diamond necklace 1carat Pt850・Pt900 combi</div>
+                  <div class="renew_2024_result_item_name">Diamond necklace 1carat Pt850・Pt900 combi</div>
                   <div class="renew_2024_result_item_kaitori">收購參考價格</div>
                   <div class="renew_2024_result_item_price">47,300<span class="unit">&yen;</span></div>
                   <div class="renew_2024_result_item_arrow">
@@ -499,9 +499,9 @@
                 <div class="renew_2024_result_itembox">
                   <div class="renew_2024_result_item_image"><img width="150" height="150"
                       src="../images/daiya/99856989f40e8b5ee2e353374eafeee8-150x150.webp"
-                      class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
+                      class="attachment-thumbnail size-thumbnail" alt="Diamondnecklace 1.2carat"
                       decoding="async" loading="lazy" sizes="100vw"></div>
-                  <div class="renew_2024_result_item_name">diamondnecklace 1.2carat</div>
+                  <div class="renew_2024_result_item_name">Diamondnecklace 1.2carat</div>
                   <div class="renew_2024_result_item_kaitori">收購參考價格</div>
                   <div class="renew_2024_result_item_price">93,500<span class="unit">&yen;</span></div>
                   <div class="renew_2024_result_item_arrow">
@@ -1168,10 +1168,10 @@
                       </p>
                       <p class="content__image img"><img width="150" height="150"
                           src="../images/daiya/ae65a7f7eb26d47380d54fa69f44687e-150x150.jpg"
-                          class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat Pt850・Pt900 combi"
+                          class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat Pt850・Pt900 combi"
                           decoding="async" loading="lazy" sizes="100vw"></p>
                       <p></p>
-                      <p class="content--name">diamond necklace 1carat Pt850・Pt900 combi</p>
+                      <p class="content--name">Diamond necklace 1carat Pt850・Pt900 combi</p>
                     </div>
 
                   </a>
@@ -1188,10 +1188,10 @@
                       </p>
                       <p class="content__image img"><img width="150" height="150"
                           src="../images/daiya/c4e08d8f36be3877e44fc641d6a7648d-150x150.jpg"
-                          class="attachment-thumbnail size-thumbnail" alt="diamond necklace 1carat pt850"
+                          class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 1carat pt850"
                           decoding="async" loading="lazy" sizes="100vw"></p>
                       <p></p>
-                      <p class="content--name">diamond necklace 1carat pt850</p>
+                      <p class="content--name">Diamond necklace 1carat pt850</p>
                     </div>
 
                   </a>
@@ -1208,10 +1208,10 @@
                       </p>
                       <p class="content__image img"><img width="150" height="150"
                           src="../images/daiya/b8f9a66b7c1c0eaf3a43bd5dbb20d788-150x150.webp"
-                          class="attachment-thumbnail size-thumbnail" alt="diamond necklace Pt・Pm850 0.449ct"
+                          class="attachment-thumbnail size-thumbnail" alt="Diamond necklace Pt・Pm850 0.449ct"
                           decoding="async" loading="lazy" sizes="100vw"></p>
                       <p></p>
-                      <p class="content--name">diamond necklace Pt・Pm850 0.449ct</p>
+                      <p class="content--name">Diamond necklace Pt・Pm850 0.449ct</p>
                     </div>
 
                   </a>
@@ -1228,10 +1228,10 @@
                       </p>
                       <p class="content__image img"><img width="150" height="150"
                           src="../images/daiya/99856989f40e8b5ee2e353374eafeee8-150x150.webp"
-                          class="attachment-thumbnail size-thumbnail" alt="diamondnecklace 1.2carat"
+                          class="attachment-thumbnail size-thumbnail" alt="Diamondnecklace 1.2carat"
                           decoding="async" loading="lazy" sizes="100vw"></p>
                       <p></p>
-                      <p class="content--name">diamondnecklace 1.2carat</p>
+                      <p class="content--name">Diamondnecklace 1.2carat</p>
                     </div>
 
                   </a>
@@ -1248,10 +1248,10 @@
                       </p>
                       <p class="content__image img"><img width="150" height="150"
                           src="../images/daiya/b8c211efa76fc22dc3cc0f32a8ff6bf9-150x150.webp"
-                          class="attachment-thumbnail size-thumbnail" alt="diamond necklace 10.5 ct"
+                          class="attachment-thumbnail size-thumbnail" alt="Diamond necklace 10.5 ct"
                           decoding="async" loading="lazy" sizes="100vw"></p>
                       <p></p>
-                      <p class="content--name">diamond necklace 10.5 ct</p>
+                      <p class="content--name">Diamond necklace 10.5 ct</p>
                     </div>
 
                   </a>
@@ -2119,7 +2119,7 @@
                 <h3 class="titleSub">鑽石的評價標準是什麼？</h3>
                 <div class="high_price_purchase_points_content_lead"></div>
               </div>
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 existence_img">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2131,7 +2131,7 @@
                   </div>
                 </div>
               </div>
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 existence_img">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2143,7 +2143,7 @@
                   </div>
                 </div>
               </div>
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 existence_img">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2162,7 +2162,7 @@
                 <div class="high_price_purchase_points_content_lead"></div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2181,7 +2181,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2200,7 +2200,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2220,7 +2220,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2239,7 +2239,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2259,7 +2259,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2278,7 +2278,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2297,7 +2297,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2316,7 +2316,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">
@@ -2337,7 +2337,7 @@
                 </div>
               </div>
 
-              <div class="fshoplist-target--item 
+              <div class="fshoplist-target--item
                                 ">
                 <div class="horizonlist horizonnumblist">
                   <div class="horizonlist--link">

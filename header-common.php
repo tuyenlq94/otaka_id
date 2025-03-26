@@ -2,7 +2,7 @@
     <div id="nav_toggle"></div>
     <div class="header__head">
         <div class="logo__wrap">
-            <p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
+            <p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="Harta karun"></a></p>
             <h1 class="logo__text">Kami menawarkan penilaian dan pembelian emas gratis di lebih dari 1.300 toko di seluruh dunia.</h1>
         </div>
         <div class="tel__wrap">
@@ -24,7 +24,7 @@
         <div class="common_nav_inner">
             <div class="common_header_head is-sp">
                 <div class="common_logo_wrap">
-                    <p class="common_logo_img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
+                    <p class="common_logo_img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="Harta karun"></a></p>
                     <h1 class="common_logo_text">Kunjungi Otarakaya untuk penilaian dan penjualan emas Anda</h1>
                 </div>
             </div>
