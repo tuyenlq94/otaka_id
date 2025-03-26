@@ -1428,20 +1428,6 @@
 
                         <div class="brandinfo__main fshoplist-target__list">
                             <div class="brandinfo__header fshoplist-target--ttl">
-                                <h3 class="brandinfo__header__title">Tren Harga Emas Selama 30 Tahun Terakhir</h3>
-                            </div>
-                            <div class="fshoplist-target--item brandinfo__body no--image">
-                                <div class="brandinfo__body__text brandinfo__body__text--top">
-                                30 tahun yang lalu, pada tahun 1990an, harga emas berada pada kisaran 1.000–1.500 yen per gram, yang merupakan nilai yang sangat rendah berdasarkan standar saat ini.
-                                    <br />
-                                    Namun karena kondisi sosial yang tidak stabil seperti runtuhnya Lehman Brothers dan krisis COVID-19, nilai emas sebagai "aset aman" meningkat dan harganya melonjak.
-                                    <br />
-                                    Pada tahun 2024, harga emas telah melampaui 10.000 yen per gram, mencapai titik tertinggi dalam sejarah.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="brandinfo__main fshoplist-target__list">
-                            <div class="brandinfo__header fshoplist-target--ttl">
                                 <h3 class="brandinfo__header__title">Tips menjual emas dengan harga tinggi</h3>
                             </div>
                             <div class="fshoplist-target--item brandinfo__body no--image">
@@ -1487,23 +1473,7 @@
                     </div>
                     <!-- renew_202404_sellreason_item -->
 
-                    <h3 class="renew_202404_sellreason_shutter_title">
-                        Tren Harga Emas Selama 30 Tahun Terakhir
-                        <div class="renew_202404_sellreason_shutter_circle">
-                            <div class="renew_202404_sellreason_shutter_arrow"></div>
-                        </div>
-                    </h3>
-                    <div class="renew_202404_sellreason_shutter_story">
-                        <p>
-                            30 tahun yang lalu, pada tahun 1990an, harga emas berada pada kisaran 1.000–1.500 yen per gram, yang merupakan nilai yang sangat rendah berdasarkan standar saat ini.
-                        </p>
-                        <p>
-                        Namun karena kondisi sosial yang tidak stabil seperti runtuhnya Lehman Brothers dan krisis COVID-19, nilai emas sebagai "aset aman" meningkat dan harganya melonjak.
-                        </p>
-                        <p>
-                            <span>Pada tahun 2024, harga emas telah melampaui 10.000 yen per gram, mencapai titik tertinggi dalam sejarah.</span>
-                        </p>
-                    </div>
+
                     <h3 class="renew_202404_sellreason_shutter_title">
                     Tips menjual emas dengan harga tinggi
                         <div class="renew_202404_sellreason_shutter_circle">
